@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name lib_microbit_connector)(type Legacy)(uri /home/shimodash/study-kicad/microbit/kicad_microbit_connector-master/lib_microbit_connector/lib_microbit_connector.lib)(options "")(descr ""))
+  (lib (name lib_microbit_connector)(type Legacy)(uri ${PWD}/microbit/kicad_microbit_connector-master/lib_microbit_connector/lib_microbit_connector.lib)(options "")(descr ""))
 )
