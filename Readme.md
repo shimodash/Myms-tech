@@ -16,5 +16,5 @@ Welcome Myms-tech website!
 [NEKTON大船](http://www.nespa-ad.co.jp/nekton/)
 
 # お問い合わせ
-[mail](sbt.shimoda@gmail.com)
+[mail](mailto:sbt.shimoda@gmail.com)
 
