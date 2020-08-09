@@ -12,9 +12,9 @@ Welcome Myms-tech website!
 
 # リンク
 [Facebook](https://www.facebook.com/mymstech)
+
 [NEKTON大船](http://www.nespa-ad.co.jp/nekton/)
 
 # お問い合わせ
-mail: sbt.shimoda(at)gmail.com
-*atを@になおしてください。
+[mail](sbt.shimoda@gmail.com)
 
