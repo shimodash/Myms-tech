@@ -1,3 +1,4 @@
+![](./images/myms-tech.jpg)
 
 # 自己紹介
 
