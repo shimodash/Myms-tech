@@ -13,7 +13,10 @@ Welcome Myms-tech website!
 # リンク
 [Facebook](https://www.facebook.com/mymstech)
 
+![](http://www.nespa-ad.co.jp/nekton/imgs/logo.png)
+
 [NEKTON大船](http://www.nespa-ad.co.jp/nekton/)
+
 
 # お問い合わせ
 [mail](mailto:sbt.shimoda@gmail.com)
