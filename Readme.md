@@ -11,7 +11,8 @@ Welcome Myms-tech website!
 [paperplane](./paperplane/paperplane.pdf)
 
 # リンク
-Facebook：　https://www.facebook.com/mymstech
+[Facebook](https://www.facebook.com/mymstech)
+[NEKTON大船](http://www.nespa-ad.co.jp/nekton/)
 
 # お問い合わせ
 mail: sbt.shimoda(at)gmail.com
