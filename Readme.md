@@ -8,7 +8,7 @@ Welcome Myms-tech website!
 古都鎌倉の子どもたち科学好きな子に！
 
 # 作品
-paperplane(./paperplane/paperplane.pdf)
+[paperplane](./paperplane/paperplane.pdf)
 
 # リンク
 Facebook：　https://www.facebook.com/mymstech
