@@ -10,3 +10,7 @@ Welcome Myms-tech website!
 # リンク
 Facebook：　https://www.facebook.com/mymstech
 
+# お問い合わせ
+mail: sbt.shimoda(at)gmail.com
+*atを@になおしてください。
+
