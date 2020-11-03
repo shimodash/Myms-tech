@@ -8,6 +8,8 @@ Welcome Myms-tech website!
 
 古都鎌倉の子どもたち科学好きな子に！
 
+[website](https://shimodash.github.io/Myms-tech)
+
 # 作品
 [paperplane](./paperplane/paperplane.pdf)
 
