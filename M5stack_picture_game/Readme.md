@@ -28,3 +28,7 @@ M5Stack (Core)
 Arduino IDE 2.3.2  
 M5Stackライブラリ 2.1.4  
 SDカード  
+
+## ゲーム画像
+<img width="200px" src="https://github.com/user-attachments/assets/e878c0d1-bcc6-419e-be02-aa3585334777">  
+<img width="200px" src="https://github.com/user-attachments/assets/736822a4-aac7-46a0-a304-306308e6f8b8">
