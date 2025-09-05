@@ -14,7 +14,7 @@ void listImageFiles(fs::FS &fs, const char *dirname);
 void displayImage(const String &path);
 void showNextImage();
 void displayStartScreen();
-void displayEndScreen(unsigned long playTime);
+void displayEndScreen(float playTime);
 void resetGame();
 
 void setup() {
@@ -138,7 +138,7 @@ void displayStartScreen() {
  * @brief ゲーム終了画面を表示する
  * @param playTime プレイ時間（秒）
  */
-void displayEndScreen(unsigned long playTime) {
+void displayEndScreen(float playTime) {
   M5.Lcd.fillScreen(BLACK);
   M5.Lcd.setCursor(0, 0);
   M5.Lcd.setTextSize(2);
@@ -147,7 +147,7 @@ void displayEndScreen(unsigned long playTime) {
   M5.Lcd.println("Game Finish!");
   M5.Lcd.setCursor(10, 120);
   M5.Lcd.print("Play Time: ");
-  M5.Lcd.print(playTime);
+  M5.Lcd.print(playTime, 2); // 小数点第2位まで表示
   M5.Lcd.println(" seconds");
   M5.Lcd.setCursor(10, 160);
   M5.Lcd.println("Press Red to Play Again");
@@ -198,7 +198,7 @@ void showNextImage() {
   imagesDisplayedCount++;
   if (imagesDisplayedCount >= imageFiles.size()) {
     unsigned long endTime = millis();
-    unsigned long playTime = (endTime - startTime) / 1000;
+    float playTime = (float)(endTime - startTime) / 1000.0;
     M5.Speaker.mute();
     displayEndScreen(playTime);
     isGameOver = true;
